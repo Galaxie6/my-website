@@ -2,7 +2,7 @@
     padding-top: 3px;
     padding-bottom: 15px;
     text-align: center;
-    background: linear-gradient(180deg, rgb(2, 76, 136) 0%, rgba(41, 120, 224, 0) 100%);
+    background: linear-gradient(180deg, rgb(71, 2, 136) 0%, rgba(120, 41, 224, 0) 100%);
     color: white;
     font-size: 100%;
     border-radius: 0px;
@@ -15,7 +15,7 @@
 .Heading2 {
     font-size: 110%;
     color: white;
-    background-color: rgba(2, 76, 136, 0.5);
+    background-color: rgba(53, 2, 136, 0.5);
 }
 
 .Dev-Level {
@@ -71,6 +71,46 @@
     font-size: 100%;
     margin-bottom: 15px;
     border-radius: 8px;
+}
+
+/* Heading Styling */
+
+h1 {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+  
+h2 {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+  
+h3 {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+  
+h4 {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+  
+h5 {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+/* Paragraph Styling */
+
+p {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+/* Anchor Styling */
+
+.unblue-anchors {
+    color: aliceblue;
 }
 
 body {
